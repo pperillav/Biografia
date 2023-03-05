@@ -1,0 +1,50 @@
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #696969;
+      background-image: url("fossils.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+    }
+    
+    h1 {
+      color: #ffffff;
+      text-align: center;
+      font-size: 32px;
+    }
+    
+    .correo{
+        background-color: #95cc9570;
+        color: #1f1e1e;
+        font-size: 18px;
+        line-height: 1.5;
+    }
+
+    .habilidades{
+        background-color: #70c9d470;
+        color: #1f1e1e;
+        font-size: 18px;
+        line-height: 1.5;
+    }
+
+    .hobbies{
+        background-color: #e2879b70;
+        color: #1f1e1e;
+        font-size: 18px;
+        line-height: 1.5;
+    }
+
+
+    p {
+        background-color: #ffffff70;
+      color: #1f1e1e;
+      font-size: 18px;
+      line-height: 1.5;
+    }
+    
+    img {
+      display: block;
+      margin: 0 auto;
+      width: 400px;
+      border-radius: 10%;
+    }
